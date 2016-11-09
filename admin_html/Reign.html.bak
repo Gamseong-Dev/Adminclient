@@ -1,0 +1,13 @@
+
+<html>
+<head>
+<title></title>
+<frameset rows=33%,* border=2>
+ <frame src="Regin1-1.html" name=Reign1-1 frameborder="0" border="0">
+ <frameset cols=50%,* border=2>
+  <frame src="Regin1-2.html" name=Reign1-2 frameborder="0" border="0">
+  <frame src="Regin1-3.html" name=Reign1-3 frameborder="0" border="0">
+ </frameset> 
+</frameset>
+</body>
+</html>

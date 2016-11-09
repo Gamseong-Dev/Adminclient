@@ -1,0 +1,10 @@
+
+<html>
+<head>
+<title></title>
+<frameset cols=30%,* border=2>
+ <frame src=UserInfo1-1-1.html name=UserInfo1-1-1>
+ <frame src=UserInfo1-1-2.html name=UserInfo1-1-2>
+</frameset>
+</body>
+</html>

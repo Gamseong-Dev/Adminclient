@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>jQuery UI Checkboxradio - Default functionality</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "input" ).checkboxradio();
+  } );
+  </script>
+</head>
+<body>
+<fieldset>
+<legend>거주지역</legend>
+<select>
+ <option> ----- 선택하세요 ----</option>
+<label for="checkbox-nested-1">서울 
+<input type="checkbox" name="checkbox-nested-1" id="checkbox-nested-1">
+ <option value="서울" data-target="#category2-1">서울</option>
+ <option value="경기도" data-target="#category2-1">경기도</option>
+ <option value="강원도" data-target="#category2-1">강원도</option>
+ <option value="충정도" data-target="#category2-1">충정도</option>
+ <option value="전라도" data-target="#category2-1">전라도</option>
+ <option value="경상도" data-target="#category2-1">경상도</option>
+ <option value="제주도" data-target="#category2-1">제주도</option>
+ </select>
+
+<select >
+ <option> ----- 선택하세요 ----</option>
+ <option value="강남구" data-target="#category2-1-1">강남구</option>
+ <option value="강서구" data-target="#category2-1-1">강서구</option>
+ <option value="강동구" data-target="#category2-1-1">강동구</option>
+ <option value="강북구" data-target="#category2-1-1">강북구</option>
+ </select>
+
+<select>
+ <option> ----- 선택하세요 ----</option>
+ <option value="염창동" data-target="#category2-2-1">염창동</option>
+ <option value="등촌동" data-target="#category2-2-1">등촌동</option>
+ <option value="화곡동" data-target="#category2-2-1">화곡동</option>
+</select>
+<button type =BUTTON onclick="" > 검색하기 </button>
+</select>
+ </fieldset>
+
+ <p>
+ <div class="widget">
+ <fieldset>
+ <legend>관심지역</legend>
+ <input type="checkbox" name="chk_info" value="서울">서울
+  <input type="checkbox" name="chk_info" value="경기도">경기도
+   <input type="checkbox" name="chk_info" value="강원도">강원도
+    <input type="checkbox" name="chk_info" value="충청도">충청도
+	 <input type="checkbox" name="chk_info" value="경상도">경상도
+	  <input type="checkbox" name="chk_info" value="전라도">전라도
+	   <input type="checkbox" name="chk_info" value="제주도">제주도
+	   <button type =BUTTON onclick="" > 검색하기 </button>
+</select>
+
+ </fieldset>
+</div>
+</body>
+</html>

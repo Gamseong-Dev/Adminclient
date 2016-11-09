@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <fieldset>
+ <legend>지역별 피드</legend>
+ <input type="checkbox" name="chk_info" value="서울">서울
+  <input type="checkbox" name="chk_info" value="경기도">경기도
+   <input type="checkbox" name="chk_info" value="강원도">강원도
+    <input type="checkbox" name="chk_info" value="충청도">충청도
+	 <input type="checkbox" name="chk_info" value="경상도">경상도
+	  <input type="checkbox" name="chk_info" value="전라도">전라도
+	   <input type="checkbox" name="chk_info" value="제주도">제주도
+	   <p>
+	   <button type =BUTTON onclick="" > 검색하기 </button>
+</select>
+
+ </fieldset>
+ </body>
+</html>

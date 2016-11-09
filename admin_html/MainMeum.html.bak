@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>MainMeum</title>
+  <style type="text/css">
+	 a:link {color:#000; text-decoration:none; font-size:18px;} 
+ a:visited {color:#888; text-decoration:none; font-size:18px;} 
+ a:hover {color:#0f0; text-decoration:underline; font-size:18px;}
+ .b{font-family:Time New Roman; color:#000066;}
+ {color: #663333; text-decoration:none; font-size:25px;}
+  </style>
+ </head>
+ <h1><a href="RightPage.html" target="right">admin</a></h1>
+ <body style="b">
+ <center>
+  
+  <ol type="i">
+  <p>
+		<a href ="UserInfo.html" target="right">유저정보</a> </td> 
+  <p>
+		<a href ="Reign.html" target="right">지역</a></td> 
+  <p>		
+		<a href ="feed.html" target="right">피드</a></td>
+  <p>		
+		<a href ="setting.html" target="right">설정</a></td>
+    
+</center>
+ </body>
+</html>

@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <fieldset>
+ <legend>회원관리</legend>
+  ID : <input type = "text" id="id" > 
+ <p>
+  <button type =BUTTON onclick="" >정지</button><p>
+  <button type =BUTTON onclick="" >차단</button><p>
+ </fieldset>
+ </body>
+</html>
